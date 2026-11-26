@@ -134,14 +134,14 @@ fbq('track', 'PageView');
 <div class="wrap">
   <header>
     <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</div>
-    <a class="badge" href="https://t.me/+94_hUkE8z5ZkZDBl" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
+    <a class="badge" href="https://t.me/+8S7IXCMsFaw0NmM1" target="_blank" rel="noopener noreferrer">ADS BY SAHIL</a>
   </header>
   <main>
     <section class="hero">
       <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
-      <a class="cta" href="https://t.me/+94_hUkE8z5ZkZDBl" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
+      <a class="cta" href="https://t.me/+8S7IXCMsFaw0NmM1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
     </section>
 
     <!-- REAL REVIEWS ONLY: paste genuine, permitted member feedback here, then remove this comment.
